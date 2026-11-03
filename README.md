@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**surajsaggam/surajsaggam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Suraj 👋
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com/?lines=ENTC+Engineer;AI+%26+Software+Developer;Building+Things+That+Matter&center=true&width=500&height=45">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- Engineering student
+- Interested in AI, Blockchain and DSA
+- Building real-world projects
+- Always learning something new
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,git,github,mysql" />
+
+### 📊 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
