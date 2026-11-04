@@ -1,10 +1,6 @@
 <div align="center">
-
-# Welcome to my GitHub!
-
+  <img src="./asciify.png" alt="Animated ASCII banner" width="100%" />
 </div>
-
-https://github.com/user-attachments/assets/d1f343bf-8a7c-4cd7-ac12-c3d5ea6a684e
 
 
 ## About Me
