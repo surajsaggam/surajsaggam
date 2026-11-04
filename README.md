@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./asciify.png" alt="Animated ASCII banner" width="100%" />
+  <video src="./asciify1.mp4" width="100%" autoplay loop muted playsinline></video>
 </div>
 
 
