@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./asciify.png" alt="Animated ASCII banner" width="100%" />
+  <img src="./codbeach.png" alt="Animated ASCII banner" width="100%" />
 </div>
 
 
