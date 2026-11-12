@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./codbeach.png" alt="Animated ASCII banner" width="100%" />
-</div>
 
 ## About Me
 
